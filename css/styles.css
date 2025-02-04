@@ -378,7 +378,7 @@ h1 {
 .container {
   position: relative;
   background: url("/assets/images/image\ 61 (3).jpg") no-repeat center;
-  width: 100%;
+  width: 1518px;
   height: 1901px;
   margin: auto;
   text-align: center;
@@ -401,7 +401,7 @@ h1 {
   border: none;
   cursor: pointer;
   top: 1179px;
-  left: 700px;
+  left: 720px;
 }
 
 .container .btn-open-modal2 {
@@ -421,7 +421,7 @@ h1 {
   border: none;
   cursor: pointer;
   top: 1469px;
-  left: 940px;
+  left: 960px;
 }
 
 .container button h1 {
